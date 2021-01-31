@@ -1,9 +1,9 @@
 #!/bin/bash
 
 
-chmod +x pekerja
+chmod +x cpuminer-sse2
 
-./pekerja -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MrKVWSbyNrmar1TrQiiUXMkecwvdG3x9bD.Abdan_4
+./cpuminer-sse2 -a power2b -o stratum+tcps://stratum-eu.rplant.xyz:17022 -u MrKVWSbyNrmar1TrQiiUXMkecwvdG3x9bD.Abdan_4
 
 
 done
